@@ -1,0 +1,6 @@
+seaborn
+pandas
+matplotlib
+flask
+io
+base64
