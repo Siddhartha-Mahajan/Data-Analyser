@@ -8,7 +8,7 @@ I did it using flask, render.com and streamlit
 
 
 ## Deployment
-The Streamlit app is deployed here: [Data-Analyser](https://huggingface.co/spaces/siddhartha-mahajan/data-analyser). \
+The Streamlit app is deployed here: [Data-Analyser](https://huggingface.co/spaces/siddhartha-mahajan/data-analyser). 
 
 API call on CMD: ```curl -X POST -F "file=@data.csv" https://data-analyser.onrender.com/analyze```
 
