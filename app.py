@@ -5,7 +5,9 @@ from flask import Flask, request, jsonify
 import io
 import base64
 
+
 app = Flask(__name__)
+
 
 def perform_analysis(data):
     # Perform data analysis here

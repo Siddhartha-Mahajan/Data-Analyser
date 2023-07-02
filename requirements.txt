@@ -2,4 +2,4 @@ seaborn
 pandas
 matplotlib
 flask
-gunicorn
+jinja2==3.0.3
