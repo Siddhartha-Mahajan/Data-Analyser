@@ -4,3 +4,5 @@ matplotlib
 flask
 jinja2==3.0.3
 gunicorn
+tensorflow
+transformers
